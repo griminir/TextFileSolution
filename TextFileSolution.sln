@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.10.35013.160
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TextFileUI", "TextFileUI\TextFileUI.csproj", "{170918E2-785F-4A0F-9AC3-71B47A3302AA}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DataAccessLibrary", "DataAccessLibrary\DataAccessLibrary.csproj", "{5BDE24FB-5AB9-4EFD-98D7-84B739572AF1}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{170918E2-785F-4A0F-9AC3-71B47A3302AA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{170918E2-785F-4A0F-9AC3-71B47A3302AA}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{170918E2-785F-4A0F-9AC3-71B47A3302AA}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{170918E2-785F-4A0F-9AC3-71B47A3302AA}.Release|Any CPU.Build.0 = Release|Any CPU
+		{5BDE24FB-5AB9-4EFD-98D7-84B739572AF1}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5BDE24FB-5AB9-4EFD-98D7-84B739572AF1}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5BDE24FB-5AB9-4EFD-98D7-84B739572AF1}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5BDE24FB-5AB9-4EFD-98D7-84B739572AF1}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {B337198B-68A0-4B2F-839D-608951548BF3}
+	EndGlobalSection
+EndGlobal
